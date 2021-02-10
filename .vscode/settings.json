@@ -1,0 +1,42 @@
+{
+    "files.watcherExclude": {
+        "**/.meta**": true
+    },
+    
+
+    "files.exclude": {
+        "**/.git": true,
+        "**/*.meta": true,
+        "**/*.*.meta": true,
+        "**/*.unity": true,
+        "**/*.unityproj": true,
+        "**/*.anim": true,
+        "**/*.controller": true,
+        "**/*.asset": true,
+        "**/*.git*": true,
+        "**/*.png": true,
+        "**/*.prefab": true,
+        "**/*.csproj": true,
+        "**/ProjectSettings": true,
+        "**/Temp": true,
+        "**/*.sln":true,
+        "Library":true,
+        "Logs":true,
+        "obj":true,
+        "Assets/Animations&Controllers":true,
+        "Assets/Decorations and interactables":true,
+        "Assets/Music and Audio":true,
+        "Assets/NPCs":true,
+        "Assets/Prefabs":true,
+        "Assets/Resources":true,
+        "Assets/Scenes":true,
+        "Assets/Sprites":true,
+        "Assets/Standard Assets":true,
+        "Assets/Text Fonts":true,
+        "Assets/Tiles":true
+        
+    },
+    "files.associations": {
+    
+    }
+}
